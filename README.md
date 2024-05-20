@@ -35,7 +35,7 @@ CREATE TABLE courses_offered (
 ```
 ### Clone Repository:
 ```
-git clone https://github.com/paras966/Training-center-API.git
+git clone https://github.com/paras966/Backend_Traini8_ParasPatil.git
 ```
 ### Run the Project:
 - Navigate to the project directory.
