@@ -6,6 +6,9 @@ This project is a Spring Boot application that provides APIs for managing traini
 ### Create Database:
 - Create a MySQL database named mvp.
 - Use the database mvp.
+```
+create database mvp;
+```
 ### Create Tables:
 ```
 CREATE TABLE training_center (
