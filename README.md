@@ -8,6 +8,7 @@ This project is a Spring Boot application that provides APIs for managing traini
 - Use the database mvp.
 ```
 create database mvp;
+use mvp;
 ```
 ### Create Tables:
 ```
