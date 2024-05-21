@@ -69,4 +69,6 @@ json
     "contactPhone": "4561237890"
 }
 ```
+`Get API`
+```http://localhost:8080/api/training-centers```
 Feel free to explore and interact with the API endpoints as per your requirements.
