@@ -48,6 +48,9 @@ git clone https://github.com/paras966/Backend_Traini8_ParasPatil.git
 
 After running the project, hit the endpoints to interact with the API.First, make a POST request to add data to the tables.Then, use GET requests to retrieve data.
 - Sample Body for POST Request
+  ```
+  http://localhost:8080/api/training-centers
+  ```
 json
 ```
 {
