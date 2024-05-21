@@ -37,6 +37,8 @@ CREATE TABLE courses_offered (
 ```
 git clone https://github.com/paras966/Backend_Traini8_ParasPatil.git
 ```
+### Edit correct creadentials in ./src/Main/resources/Hibernate.cgf.xml
+- Add your URL and username, password for mysql server
 ### Run the Project:
 - Navigate to the project directory.
 - Run the project using Maven or your IDE.
