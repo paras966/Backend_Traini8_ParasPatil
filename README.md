@@ -1,4 +1,9 @@
 # Training-center-API
+
+## Setup Instructions (VIDEO)
+```
+https://drive.google.com/file/d/18QRBNaVBG7FdOZtyEVAPzZ4gqHPtrsja/view?usp=sharing
+```
 This project is a Spring Boot application that provides APIs for managing training centers and courses offered by them.
 `Spring boot, Hibernate(ORM Tool), Mysql, Included Validations`
 
